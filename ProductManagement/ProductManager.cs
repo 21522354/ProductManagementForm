@@ -16,6 +16,7 @@ namespace ProductManagement
         private readonly ProductManagenentEntities _context;
         public ProductManager()
         {
+            MessageBox.Show("Thầy nhớ chạy file script sql và đổi connection string mới chạy được");
             InitializeComponent();
             _context = new ProductManagenentEntities();
 

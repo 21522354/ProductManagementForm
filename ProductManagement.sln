@@ -5,11 +5,6 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagement", "ProductManagement\ProductManagement.csproj", "{3B5DEBE7-130F-49F9-9678-ED0851D6D182}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLFile", "SQLFile", "{A0B07458-A61C-4B68-95B9-18F6C18F6430}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Downloads\ProductManagementDB.sql = ..\..\..\Downloads\ProductManagementDB.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
